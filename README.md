@@ -7,5 +7,5 @@ Dart streams extension for working with streams in a more convenient way.
 
 ```yaml
 dev_dependencies:
-  rx-pack: ^1.0.0
+  rx_pack: ^1.0.1
 ```
