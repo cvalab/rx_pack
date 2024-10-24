@@ -1,6 +1,6 @@
 name: rx_pack
 description: Extension for Dart's Stream class that adds additional functionality.
-version: 1.0.1
+version: 1.0.2
 repository: https://github.com/cvalab/rx_pack.git
 
 environment:
